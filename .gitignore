@@ -1,0 +1,14 @@
+.env
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.db
+*.db-shm
+*.db-wal
+*.log
+node_modules/
+frontend/dist/
+reports/
+*.pdf
+.DS_Store
